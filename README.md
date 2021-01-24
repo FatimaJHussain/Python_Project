@@ -31,23 +31,12 @@ Figure-6: Top Five School List![Revised District Summary](https://github.com/Fat
 
 
 ### How does replacing the ninth-grade scores affect the following:
-* Math and reading scores by grade
-The math and reading scores by grade tables didn't change since the grouping was done by each school. Even without grouping, the effect would have been minimal since the 9th graders at Thomas High School amount to less than half a percent of the total 9th grade population in the district.
+* Math and reading scores by grade: The math and reading scores by grade tables didn't change since the grouping was done by each school. Even without grouping, the effect would have been minimal since the 9th graders at Thomas High School amount to less than half a percent of the total 9th grade population in the district.
 
-The Average Math Score drops by ___.
-The Average Reading Score  ___.
-The % Passing Math  ___.
-The % Passing Reading  ___.
-The % Overall Passing  ___.
+* Scores by school spending: Changing scores of 9th grade didnot affect the school spending. 
 
-* Scores by school spending
-Changing scores of 9th grade didnot affect the school spending. Thomas High School remained in G2 and have spending ------
-
-* Scores by school size
-It didnot change as Thomas High scholl is in medium sized school and no scores changed in medium sized school (1000-2000).
-
-* Scores by school type
-There is no change in scores (by school type), when reassessment is done.
+* Scores by school size:It didnot change. 
+* Scores by school type: There is no change in scores (by school type), when reassessment is done.
 
 # Summary
 Overall the discrepency of the scores impacted the entire analysis. The revised analysis would not be a true statement as we are not calculating the actual true student population for this district. Though the student count of 461 from 9th grade attending Thomas High is minimal compared to a total of 39,170 students; their true scores may still impact the results positively or negatively.
