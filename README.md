@@ -43,17 +43,13 @@ Figure-6: Top Five School List![Revised District Summary](https://github.com/Fat
 * Scores by school type: There is no change in scores (by school type), when reassessment is done.
 
 # Summary
-Overall the discrepency of the scores impacted the entire analysis. The revised analysis would not be a true statement as we are not calculating the actual true student population for this district. Though the student count of 461 from 9th grade attending Thomas High is minimal compared to a total of 39,170 students; their true scores may still impact the results positively or negatively.
 
-1. The performance for Thomas High individually situates them at the second place in the top 5 schools list. This may change if we had the actual results from the 9th grade. The results may put them in the bottom producing schools.
+Discrepency of the scores have impacted the analysis in a way that Thomas High School has moved to top 5 schools. Although, number of students=461 of 9th grade attending Thomas High is very less compared to the total number of students=39,170. Invidual scores will affect them positively. Following are the major changes in the school district analysis after reading and math scores have been replaced:
+1. Thomas High individually get second place in the top 5 schools list. Originally, it was placed in the bottom performing schools.
 
-2. The performance results on each grade level may be impacted as well. Currently the results have the 9th grade per school performing at the same rate. Actual results may show Thomas High's 9th grade performing better or worse than the other schools.
+2. Grade level performance is also affected. Currently the results have the 9th grade per school performing at the same rate. Actual results may show Thomas High's 9th grade performing better or worse than the other schools.
 
-3. Based on the performance the budget per student may change as well which will impact the decision for the school boards funding allocation. The true results may change the averages and the passing percentages, placing them in the next higher or lower bin of spending.
+3. Budget allocation will be also affected based on the performance of each school. As this affects the  decision for the school boards funding allocation. Revised analysis have changed the averages and the passing percentages, placing them in the next higher or lower bin of spending.
 
 4. Once the true results from Thomas High's 9th grade is received, and if the averages are low, this may pull the overall passing rate down for the school itself, trickling down and change the results of the School Type summary. We may see District schools out performing the Charter schools.
 
-Following are the major changes in the school district analysis after reading and math scores have been replaced:
-* Thomas High School ---overall passing was improved from 65% to 90%
-* Average math score was drop
-*
