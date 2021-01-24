@@ -7,6 +7,11 @@ This analysis will be used to make stretegic decisions upon school testing and p
 In the following, we will discuss the results of the above analysis; i.e, after removing all the scores for grade 9 students for Thomas High School: 
 ### How is the district summary affected?
 Below are the screenshots of the District summary before and after the analysis was performed. It shows total population, budget, average scores and passing rates for the entire district. By comparing the total students column, we can see that 9th graders from Thomas High are 1.17% of the total student population.
+* Average math score dropped by 0.1 points
+* Average readinhg score doesnot change
+* % Passing math decreased by 0.2 points
+* % Passing reading decreased by 0.3 points
+* Overall % passing decreased by 0.1 points
 
 Figure-1: Original District Summary![Original District Summary](https://github.com/FatimaJHussain/python_project/blob/main/original_district.png).
 Figure-2: Revised District Summary ![Revised District Summary](https://github.com/FatimaJHussain/python_project/blob/main/revised_district.png).
@@ -34,7 +39,6 @@ Figure-6: Top Five School List![Revised District Summary](https://github.com/Fat
 * Math and reading scores by grade: The math and reading scores by grade tables didn't change since the grouping was done by each school. Even without grouping, the effect would have been minimal since the 9th graders at Thomas High School amount to less than half a percent of the total 9th grade population in the district.
 
 * Scores by school spending: Changing scores of 9th grade didnot affect the school spending. 
-
 * Scores by school size:It didnot change. 
 * Scores by school type: There is no change in scores (by school type), when reassessment is done.
 
