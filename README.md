@@ -10,9 +10,6 @@ In the following, we will discuss the results of the above analysis:
 ### How does replacing the ninth-grade scores affect the following:
 * Math and reading scores by grade
 
-Figure-1:Math Scores by Grades ![math scores by grades](https://github.com/FatimaJHussain/python_project/blob/main/math_scores.png)
-
-Figure-2:Reading Scores by Grades ![reading scores by grades](https://github.com/FatimaJHussain/python_project/blob/main/reading_scores.png)
 * Scores by school spending
 Figure-3:Spending By School![spending by school](https://github.com/FatimaJHussain/python_project/blob/main/byschoolspending.png)
 * Scores by school size
