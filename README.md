@@ -12,26 +12,42 @@ Figure-1: Original District Summary![Original District Summary](https://github.c
 Figure-2: Revised District Summary ![Revised District Summary](https://github.com/FatimaJHussain/python_project/blob/main/revised_district.png).
 
 ### How is the school summary affected? 
-only Thomas high high school was affected and overall passing was improved from 65% to 90%
+Only Thomas high high school was affected and overall passing was improved from 65% to 90%, as shown below: 
+There are a total of 1635 students at Thomas High School. 73% of the students are from grade 10th to 12th. Once we eliminated the grade 9 scores, the percentage of students passing each subject or both together dropped by an average of 26%, since the calculation was still taking the total number students into account.
+
+Figure-3: Original Per School Summary![Original District Summary](https://github.com/FatimaJHussain/python_project/blob/main/original_perschool_summary.png).
+
+However, after recalculating with only the number of students with scores at Thomas High School, the passing percentages was barely impacted by an average of .37%. Below are the screenshot of the summaries with the grade 9 as student count but no scores, and without the grade 9 students completely out of the calculation.
+
+Figure-4: Revised per School Summary without Grade 9 Scores ![Revised District Summary](https://github.com/FatimaJHussain/python_project/blob/main/revised_perschool.png).
+
+
+Figure-5: Revised per School Summary without Grade 9 Scores ![Revised District Summary](https://github.com/FatimaJHussain/python_project/blob/main/revised+perschool1.png).
+
 ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
-only Thomas high high school was affected and overall passing was improved from 65% to 90%
+Only Thomas high high school was affected and overall passing was improved from 65% to 90%. After the revised analysis with the 9th grade scores replaced the overall passing percentage for the school was at 65%, it would have placed Thomas High School within the bottom 10 schools, placing them at the 8th position. However once the scores were replaced and taking the grade 9's out of the equation, the school falls within the top 5 performers, placed 2nd on the list as the original analysis.
+
+Figure-6: Top Five School List![Revised District Summary](https://github.com/FatimaJHussain/python_project/blob/main/top_5list.png).
+
 
 ### How does replacing the ninth-grade scores affect the following:
 * Math and reading scores by grade
+The math and reading scores by grade tables didn't change since the grouping was done by each school. Even without grouping, the effect would have been minimal since the 9th graders at Thomas High School amount to less than half a percent of the total 9th grade population in the district.
+
 The Average Math Score drops by ___.
 The Average Reading Score  ___.
 The % Passing Math  ___.
 The % Passing Reading  ___.
 The % Overall Passing  ___.
-* Scores by school spending
 
+* Scores by school spending
 Changing scores of 9th grade didnot affect the school spending. Thomas High School remained in G2 and have spending ------
 
 * Scores by school size
-It didnot change as Thomas High scholl is in medium sized school and no scores changed in medium sized school (1000-2000)
+It didnot change as Thomas High scholl is in medium sized school and no scores changed in medium sized school (1000-2000).
 
 * Scores by school type
-There is no change in scores (by school type), when replaced by Naan
+There is no change in scores (by school type), when reassessment is done.
 
 # Summary
 Overall the discrepency of the scores impacted the entire analysis. The revised analysis would not be a true statement as we are not calculating the actual true student population for this district. Though the student count of 461 from 9th grade attending Thomas High is minimal compared to a total of 39,170 students; their true scores may still impact the results positively or negatively.
