@@ -9,9 +9,16 @@ In the following, we will discuss the results of the above analysis:
 ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 ### How does replacing the ninth-grade scores affect the following:
 * Math and reading scores by grade
+
+Figure-1:Math Scores by Grades ![math scores by grades](https://github.com/FatimaJHussain/python_project/blob/main/math_scores.png)
+
+Figure-2:Reading Scores by Grades ![reading scores by grades](https://github.com/FatimaJHussain/python_project/blob/main/reading_scores.png)
 * Scores by school spending
+Figure-3:Spending By School![spending by school](https://github.com/FatimaJHussain/python_project/blob/main/byschoolspending.png)
 * Scores by school size
+Figure-4:Scores by School Size ![reading scores by grades](https://github.com/FatimaJHussain/python_project/blob/main/byschoolsize.png)
 * Scores by school type
+Figure-5:Scores by School Type ![reading scores by grades](https://github.com/FatimaJHussain/python_project/blob/main/bySchooltype.png)
 # Summary
 Following are the major changes in the school district analysis after reading and math scores have been replaced:
 *
